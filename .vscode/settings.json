@@ -3,6 +3,7 @@
     "editor.formatOnSave": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
     "terminal.integrated.env.windows": {
         "PSExecutionPolicyPreference": "RemoteSigned"
     },
@@ -25,6 +26,4 @@
     "editor.rulers": [
         80
     ],
-    // "python.pythonPath": ".env\\Scripts\\python.exe",
-    // "autoDocstring.docstringFormat": "google",
 }
