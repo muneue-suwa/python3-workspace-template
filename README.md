@@ -21,6 +21,11 @@ Click `Use this template` from GitHub or download directly settings.json from [t
   wget https://raw.githubusercontent.com/muneue-suwa/python3-workspace-template/master/.vscode/settings.json -O .vscode/settings.json
   ```
 
+## Required VSCode extensions
+
+- Required: [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+- Optional: [autoDocstring - Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+
 ## Virtual Environment
 
 Install Python virtual environment and select the interpreter from VSCode Command Palette (`Ctrl+Shift+P`)
