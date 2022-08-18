@@ -1,2 +1,5 @@
+# Virtual environment
 .env/
+
+# Python chache files
 */__pycache__/
